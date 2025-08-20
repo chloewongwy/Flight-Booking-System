@@ -1,5 +1,10 @@
 # Flight-Booking-System
-Using “Uizard” to develop a mobile prototype of flight booking system. Project Year: 2022
+Using “Uizard” to develop a mobile prototype of flight booking system. 
+
+## 📅 Project Info  
+- Developed: November 2022  
+- Note: This project was completed without the use of AI tools.
+
 
 <br><b>Flow:</b>
 Gather user requirements --> design principles --> prototype --> evaluate whether user needs are met
