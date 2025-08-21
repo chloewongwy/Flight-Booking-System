@@ -1,4 +1,4 @@
-# Flight-Booking-System
+# Flight-Booking-System UX/UI Design  
 Using “Uizard” to develop a mobile prototype of flight booking system. 
 
 <br><b>Flow:</b>
